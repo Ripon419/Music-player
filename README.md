@@ -1,2 +1,2 @@
 # Music-player
-This is a music player create with html, css and javascript.
+This is a music create player with html, css and javascript.
